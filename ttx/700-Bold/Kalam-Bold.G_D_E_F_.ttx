@@ -13,8 +13,6 @@
       <ClassDef glyph="dotaccent" class="3"/>
       <ClassDef glyph="dvDDH_DDHA" class="1"/>
       <ClassDef glyph="dvDD_GA" class="1"/>
-      <ClassDef glyph="dvD_MA.a" class="1"/>
-      <ClassDef glyph="dvD_YA.a" class="1"/>
       <ClassDef glyph="dvNG_GA" class="1"/>
       <ClassDef glyph="dvNG_MA" class="1"/>
       <ClassDef glyph="dvNY_CA" class="1"/>
@@ -31,6 +29,7 @@
       <ClassDef glyph="ring" class="3"/>
       <ClassDef glyph="tilde" class="3"/>
       <ClassDef glyph="uni02C9" class="3"/>
+      <ClassDef glyph="uni0326" class="3"/>
       <ClassDef glyph="uni0901" class="3"/>
       <ClassDef glyph="uni0902" class="3"/>
       <ClassDef glyph="uni0902.aMatraI" class="3"/>

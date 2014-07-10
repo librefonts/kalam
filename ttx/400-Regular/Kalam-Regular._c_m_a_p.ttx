@@ -296,6 +296,7 @@
       <map code="0x2db" name="ogonek"/><!-- OGONEK -->
       <map code="0x2dc" name="tilde"/><!-- SMALL TILDE -->
       <map code="0x2dd" name="hungarumlaut"/><!-- DOUBLE ACUTE ACCENT -->
+      <map code="0x326" name="uni0326"/><!-- COMBINING COMMA BELOW -->
       <map code="0x3c0" name="pi"/><!-- GREEK SMALL LETTER PI -->
       <map code="0x901" name="uni0901"/><!-- DEVANAGARI SIGN CANDRABINDU -->
       <map code="0x902" name="uni0902"/><!-- DEVANAGARI SIGN ANUSVARA -->
@@ -979,6 +980,7 @@
       <map code="0x2db" name="ogonek"/><!-- OGONEK -->
       <map code="0x2dc" name="tilde"/><!-- SMALL TILDE -->
       <map code="0x2dd" name="hungarumlaut"/><!-- DOUBLE ACUTE ACCENT -->
+      <map code="0x326" name="uni0326"/><!-- COMBINING COMMA BELOW -->
       <map code="0x3c0" name="pi"/><!-- GREEK SMALL LETTER PI -->
       <map code="0x901" name="uni0901"/><!-- DEVANAGARI SIGN CANDRABINDU -->
       <map code="0x902" name="uni0902"/><!-- DEVANAGARI SIGN ANUSVARA -->

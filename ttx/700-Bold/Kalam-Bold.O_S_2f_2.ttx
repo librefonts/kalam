@@ -3,7 +3,7 @@
 
   <OS_2>
     <version value="4"/>
-    <xAvgCharWidth value="747"/>
+    <xAvgCharWidth value="756"/>
     <usWeightClass value="700"/>
     <usWidthClass value="5"/>
     <fsType value="00000000 00000000"/>
@@ -16,7 +16,7 @@
     <ySuperscriptXOffset value="0"/>
     <ySuperscriptYOffset value="350"/>
     <yStrikeoutSize value="50"/>
-    <yStrikeoutPosition value="322"/>
+    <yStrikeoutPosition value="324"/>
     <sFamilyClass value="0"/>
     <panose>
       <bFamilyType value="2"/>
@@ -45,8 +45,8 @@
     <usWinDescent value="500"/>
     <ulCodePageRange1 value="00100000 00000000 00000000 10010011"/>
     <ulCodePageRange2 value="00000000 00000000 00000000 00000000"/>
-    <sxHeight value="537"/>
-    <sCapHeight value="685"/>
+    <sxHeight value="541"/>
+    <sCapHeight value="760"/>
     <usDefaultChar value="0"/>
     <usBreakChar value="32"/>
     <usMaxContex value="4"/>

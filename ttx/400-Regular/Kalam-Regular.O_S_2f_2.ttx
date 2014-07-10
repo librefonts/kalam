@@ -3,7 +3,7 @@
 
   <OS_2>
     <version value="4"/>
-    <xAvgCharWidth value="708"/>
+    <xAvgCharWidth value="709"/>
     <usWeightClass value="400"/>
     <usWidthClass value="5"/>
     <fsType value="00000000 00000000"/>
@@ -45,8 +45,8 @@
     <usWinDescent value="500"/>
     <ulCodePageRange1 value="00100000 00000000 00000000 10010011"/>
     <ulCodePageRange2 value="00000000 00000000 00000000 00000000"/>
-    <sxHeight value="525"/>
-    <sCapHeight value="670"/>
+    <sxHeight value="526"/>
+    <sCapHeight value="739"/>
     <usDefaultChar value="0"/>
     <usBreakChar value="32"/>
     <usMaxContex value="4"/>
