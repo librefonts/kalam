@@ -12,13 +12,13 @@
       Regular
     </namerecord>
     <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0">
-      1.200;ITFO;Kalam-Regular
+      1.300;ITFO;Kalam-Regular
     </namerecord>
     <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0">
       Kalam
     </namerecord>
     <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0">
-      Version 1.200;PS 1.0;hotconv 1.0.78;makeotf.lib2.5.61930
+      Version 1.300;PS 1.0;hotconv 1.0.78;makeotf.lib2.5.61930
     </namerecord>
     <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0">
       Kalam-Regular
@@ -57,13 +57,13 @@
       Regular
     </namerecord>
     <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
-      1.200;ITFO;Kalam-Regular
+      1.300;ITFO;Kalam-Regular
     </namerecord>
     <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
       Kalam
     </namerecord>
     <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
-      Version 1.200;PS 1.0;hotconv 1.0.78;makeotf.lib2.5.61930
+      Version 1.300;PS 1.0;hotconv 1.0.78;makeotf.lib2.5.61930
     </namerecord>
     <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
       Kalam-Regular

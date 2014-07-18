@@ -355,6 +355,7 @@
       <map code="0x938" name="uni0938"/><!-- DEVANAGARI LETTER SA -->
       <map code="0x939" name="uni0939"/><!-- DEVANAGARI LETTER HA -->
       <map code="0x93c" name="uni093C"/><!-- DEVANAGARI SIGN NUKTA -->
+      <map code="0x93d" name="uni093D"/><!-- DEVANAGARI SIGN AVAGRAHA -->
       <map code="0x93e" name="uni093E"/><!-- DEVANAGARI VOWEL SIGN AA -->
       <map code="0x93f" name="uni093F"/><!-- DEVANAGARI VOWEL SIGN I -->
       <map code="0x940" name="uni0940"/><!-- DEVANAGARI VOWEL SIGN II -->
@@ -394,7 +395,9 @@
       <map code="0x96d" name="uni096D"/><!-- DEVANAGARI DIGIT SEVEN -->
       <map code="0x96e" name="uni096E"/><!-- DEVANAGARI DIGIT EIGHT -->
       <map code="0x96f" name="uni096F"/><!-- DEVANAGARI DIGIT NINE -->
+      <map code="0x970" name="uni0970"/><!-- DEVANAGARI ABBREVIATION SIGN -->
       <map code="0x972" name="uni0972"/><!-- DEVANAGARI LETTER CANDRA A -->
+      <map code="0x97d" name="uni097D"/><!-- DEVANAGARI LETTER GLOTTAL STOP -->
       <map code="0x200b" name="uni200B"/><!-- ZERO WIDTH SPACE -->
       <map code="0x200c" name="uni200C"/><!-- ZERO WIDTH NON-JOINER -->
       <map code="0x200d" name="uni200D"/><!-- ZERO WIDTH JOINER -->
@@ -1039,6 +1042,7 @@
       <map code="0x938" name="uni0938"/><!-- DEVANAGARI LETTER SA -->
       <map code="0x939" name="uni0939"/><!-- DEVANAGARI LETTER HA -->
       <map code="0x93c" name="uni093C"/><!-- DEVANAGARI SIGN NUKTA -->
+      <map code="0x93d" name="uni093D"/><!-- DEVANAGARI SIGN AVAGRAHA -->
       <map code="0x93e" name="uni093E"/><!-- DEVANAGARI VOWEL SIGN AA -->
       <map code="0x93f" name="uni093F"/><!-- DEVANAGARI VOWEL SIGN I -->
       <map code="0x940" name="uni0940"/><!-- DEVANAGARI VOWEL SIGN II -->
@@ -1078,7 +1082,9 @@
       <map code="0x96d" name="uni096D"/><!-- DEVANAGARI DIGIT SEVEN -->
       <map code="0x96e" name="uni096E"/><!-- DEVANAGARI DIGIT EIGHT -->
       <map code="0x96f" name="uni096F"/><!-- DEVANAGARI DIGIT NINE -->
+      <map code="0x970" name="uni0970"/><!-- DEVANAGARI ABBREVIATION SIGN -->
       <map code="0x972" name="uni0972"/><!-- DEVANAGARI LETTER CANDRA A -->
+      <map code="0x97d" name="uni097D"/><!-- DEVANAGARI LETTER GLOTTAL STOP -->
       <map code="0x200b" name="uni200B"/><!-- ZERO WIDTH SPACE -->
       <map code="0x200c" name="uni200C"/><!-- ZERO WIDTH NON-JOINER -->
       <map code="0x200d" name="uni200D"/><!-- ZERO WIDTH JOINER -->

@@ -16,7 +16,6 @@
       <ClassDef glyph="dvNG_GA" class="1"/>
       <ClassDef glyph="dvNG_MA" class="1"/>
       <ClassDef glyph="dvNY_CA" class="1"/>
-      <ClassDef glyph="dvN_TA.aTRAD" class="1"/>
       <ClassDef glyph="dvSH_VA.aSimp" class="1"/>
       <ClassDef glyph="dvTTH_TTHA" class="1"/>
       <ClassDef glyph="dvTT_GA" class="1"/>
@@ -220,6 +219,7 @@
       <ClassDef glyph="uni0924094D0924094D0935" class="1"/>
       <ClassDef glyph="uni0924094D0925" class="1"/>
       <ClassDef glyph="uni0924094D0928" class="1"/>
+      <ClassDef glyph="uni0924094D0928.aTrad" class="1"/>
       <ClassDef glyph="uni0924094D0928094D092F" class="1"/>
       <ClassDef glyph="uni0924094D092A" class="1"/>
       <ClassDef glyph="uni0924094D092A094D0930" class="1"/>
