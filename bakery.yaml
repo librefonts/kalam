@@ -2,4 +2,4 @@ commit: HEAD
 process_files: [src/ttx-otf/700-Bold/Kalam-Bold.ttx, src/ttx-otf/300-Light/Kalam-Light.ttx, src/ttx-otf/400-Regular/Kalam-Regular.ttx]
 pyftsubset: --notdef-outline --name-IDs=* --hinting
 subset: [latin, latin-ext, devanagari]
-ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G" -f deva
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G" -D deva -f deva
