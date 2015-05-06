@@ -11,7 +11,7 @@ install:
 - pip install git+https://github.com/googlefonts/fontbakery.git
 - pip install jinja2
 before_script:
-- (git clone https://github.com/khaledhosny/ots; cd ots; ./autogen.sh; ./configure; make; make install)
+- (git clone https://github.com/khaledhosny/ots; cd ots; ./autogen.sh; ./configure; make; sudo make install)
 - mkdir -p builds/$TRAVIS_COMMIT
 - npm install -g bower
 script: (set -o pipefail; PATH=/home/travis/virtualenv/python2.7.9/bin/:$PATH fontbakery-build.py bakery.yml 2>&1 | tee -a builds/$TRAVIS_COMMIT/buildlog.txt)
